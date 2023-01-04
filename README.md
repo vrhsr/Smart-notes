@@ -1,2 +1,2 @@
-# XNK98421475-Campers
+# Smart Notes
 A Chrome extension to make sophisticated Notes 
