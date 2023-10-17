@@ -1,6 +1,8 @@
 # Smart Notes
 A Chrome extension to make sophisticated Notes 
 
+![Uploading notes.png…]()
+
 
 
 # Usage:
